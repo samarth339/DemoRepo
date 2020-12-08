@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.406 s <<< FAILURE! - in TestSuite
+homeTest(test.Testing4)  Time elapsed: 0.016 s  <<< FAILURE!
+java.lang.AssertionError: Verifying Element expected [true] but found [false]
+	at test.Testing4.homeTest(Testing4.java:16)
+
